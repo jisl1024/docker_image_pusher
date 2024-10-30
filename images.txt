@@ -5,4 +5,7 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 rabbitmq:4.0-management
+nacos/nacos-server:2.0.2
+redis:6.2.6
+
 
