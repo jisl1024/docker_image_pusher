@@ -16,3 +16,4 @@ mpromonet/webrtc-streamer
 openzipkin/zipkin
 nacos/nacos-server:v2.2.3
 ubuntu:latest
+emqx/emqx:5.6.0
