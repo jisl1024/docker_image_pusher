@@ -1,1 +1,1 @@
-eclipse-temurin:17-jre
+ghcr.io/blakeblackshear/frigate:stable
